@@ -8,12 +8,12 @@ Please create issues for feature requests ...
 Coinwrapper should consist of different subprojects to interact with different blockchains.
 
 You can/wiill find them at:
-- [Coinwrapper ETP](https://github.com/ConscienceLand/coinwapper-etp)
-- [Coinwrapper ETH](https://github.com/ConscienceLand/coinwapper-eth)
-- [Coinwrapper ERC20](https://github.com/ConscienceLand/coinwapper-erc20)
-- [Coinwrapper BTC](https://github.com/ConscienceLand/coinwapper-btc)
-- [Coinwrapper BCH](https://github.com/ConscienceLand/coinwapper-bch)
-- [Coinwrapper LTC](https://github.com/ConscienceLand/coinwapper-ltc)
+- [Coinwrapper ETP](https://github.com/ConscienceLand/coinwrapper-etp)
+- [Coinwrapper ETH](https://github.com/ConscienceLand/coinwrapper-eth)
+- [Coinwrapper ERC20](https://github.com/ConscienceLand/coinwrapper-erc20)
+- [Coinwrapper BTC](https://github.com/ConscienceLand/coinwarpper-btc)
+- [Coinwrapper BCH](https://github.com/ConscienceLand/coinwrapper-bch)
+- [Coinwrapper LTC](https://github.com/ConscienceLand/coinwrapper-ltc)
 
 
 ...
